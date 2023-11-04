@@ -1,0 +1,50 @@
+,demographic,pearson's r,p-value
+0,country_longest_African-Islamic,0.32,0.015197574625558784
+1,country_longest_Baltic,-0.03,1.0
+2,country_longest_Catholic-Europe,0.18,1.0
+3,country_longest_Confucian,0.20,1.0
+4,country_longest_English-Speaking,0.38*,6.061908374432264e-10
+5,country_longest_Latin-America,0.17,1.0
+6,country_longest_Orthodox-Europe,0.12,1.0
+7,country_longest_Protestant-Europe,0.39*,1.3542357826517967e-05
+8,country_longest_West-South-Asia,0.37,0.08019386906455923
+9,education_college,0.39*,8.386064077777641e-11
+10,education_graduate school,0.32*,6.021513820648833e-06
+11,education_high school,0.35*,1.8387661928619477e-07
+12,education_phd,0.28,0.0032872367128266144
+13,education_pre-high school,0.18,1.0
+14,education_professional school,0.08,1.0
+15,ethnicity_asian,0.34*,4.277726821340587e-07
+16,ethnicity_black,0.29,0.0026610152892359395
+17,ethnicity_latino/latina,0.25,0.02586795515732316
+18,ethnicity_native american,0.28,0.9381621332965361
+19,ethnicity_pacific islander,0.46,0.0743933565309381
+20,ethnicity_white,0.36*,1.2389241579104826e-08
+21,gender_man,0.35*,3.9483948969579915e-08
+22,gender_non-binary,0.25,0.012417581676978384
+23,gender_woman,0.38*,6.087305757796436e-10
+24,native_language_english,0.39*,2.2756179535410542e-10
+25,native_language_not english,0.42*,1.0036423811483015e-09
+26,age_10-20,0.39*,1.2112224654244874e-10
+27,age_20-30,0.37*,4.384036940895553e-09
+28,age_30-40,0.32*,3.1000929871295314e-05
+29,age_40-50,0.29,0.005432517647160113
+30,age_50-60,0.31,0.0035195613219232025
+31,age_60-70,0.14,1.0
+32,age_70-80,0.25,1.0
+33,age_> 80,-0.09,1.0
+34,country_residence_African-Islamic,0.16,1.0
+35,country_residence_Baltic,0.23,1.0
+36,country_residence_Catholic-Europe,0.20,1.0
+37,country_residence_Confucian,0.46,0.0014204677604269555
+38,country_residence_English-Speaking,0.40*,4.918799804113911e-11
+39,country_residence_Latin-America,-0.04,1.0
+40,country_residence_Orthodox-Europe,0.23,1.0
+41,country_residence_Protestant-Europe,0.32,0.0013577978813778782
+42,country_residence_West-South-Asia,0.09,1.0
+43,religion_buddhist,0.16,1.0
+44,religion_christian,0.35*,4.372896786369006e-08
+45,religion_hindu,0.31,0.09296293663335334
+46,religion_jew,0.28,0.11201072144864581
+47,religion_muslim,0.18,1.0
+48,religion_spiritual,0.26,1.0
