@@ -81,8 +81,8 @@ To replicate our analyses, please follow these steps:
 - Install and import all the required packages, including google-api-python-client, openai, etc.
 
 ### Dataset Preprocessing
-- Translate the dataset into seven other languages using the googletrans module to introduce multilinguality using [Translate.py](translate.py).
-- Add noise to the dataset using the nlpaug module to introduce robustness [augment.py](augment.py).
+- Translate the dataset into seven other languages using the googletrans module to introduce multilinguality using [translate.py](translate.ipynb).
+- Add noise to the dataset using the nlpaug module to introduce robustness [augment.py](augment.ipynb).
 
 ### Analysis
 
