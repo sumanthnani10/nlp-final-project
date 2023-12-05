@@ -1,0 +1,50 @@
+,demographic,pearson's r,p-value
+0,country_longest_African-Islamic,0.25,0.22145080820902077
+1,country_longest_Baltic,0.12,1.0
+2,country_longest_Catholic-Europe,0.26,0.2653639056471554
+3,country_longest_Confucian,0.43*,0.0009068744876659941
+4,country_longest_English-Speaking,0.43*,3.3841351958717764e-13
+5,country_longest_Latin-America,0.29,1.0
+6,country_longest_Orthodox-Europe,0.23,1.0
+7,country_longest_Protestant-Europe,0.43*,1.6598022639417513e-07
+8,country_longest_West-South-Asia,0.28,0.7054336181417337
+9,education_college,0.38*,2.752777253122135e-10
+10,education_graduate school,0.38*,2.1469504411700137e-09
+11,education_high school,0.39*,1.0048775937014243e-09
+12,education_phd,0.40*,5.53321689516141e-08
+13,education_pre-high school,0.35,0.012052857067677232
+14,education_professional school,0.20,0.6537770234583619
+15,ethnicity_asian,0.37*,1.3503075381632272e-08
+16,ethnicity_black,0.32*,0.00021354125205099632
+17,ethnicity_latino/latina,0.30*,0.0003746328955930078
+18,ethnicity_native american,0.21,1.0
+19,ethnicity_pacific islander,0.40,0.10725798949287339
+20,ethnicity_white,0.41*,5.6828723281117175e-12
+21,gender_man,0.39*,2.4334418543835174e-10
+22,gender_non-binary,0.30*,9.680335821658861e-05
+23,gender_woman,0.41*,1.1688381558305168e-11
+24,native_language_english,0.47*,4.645910370443019e-16
+25,native_language_not english,0.41*,1.1673295155399193e-09
+26,age_10-20,0.38*,9.117970159077813e-10
+27,age_20-30,0.42*,1.115582383891939e-12
+28,age_30-40,0.36*,1.4222152065109754e-07
+29,age_40-50,0.34*,2.10541044921989e-05
+30,age_50-60,0.28,0.006301421575528307
+31,age_60-70,0.14,1.0
+32,age_70-80,0.29,1.0
+33,age_> 80,0.43,1.0
+34,country_residence_African-Islamic,0.24,0.5619883004221181
+35,country_residence_Baltic,0.20,1.0
+36,country_residence_Catholic-Europe,0.30,0.046154721214222365
+37,country_residence_Confucian,0.44,0.0012612498212319573
+38,country_residence_English-Speaking,0.43*,3.770064952907478e-13
+39,country_residence_Latin-America,0.30,1.0
+40,country_residence_Orthodox-Europe,0.28,0.6854523903518853
+41,country_residence_Protestant-Europe,0.35*,8.675232876496774e-05
+42,country_residence_West-South-Asia,0.19,1.0
+43,religion_buddhist,0.34,0.2376771066767583
+44,religion_christian,0.36*,1.2244803210449395e-08
+45,religion_hindu,0.34,0.01262315180417594
+46,religion_jew,0.30,0.02848946732630594
+47,religion_muslim,0.23,1.0
+48,religion_spiritual,nan0,nan

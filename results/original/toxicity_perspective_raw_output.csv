@@ -1,0 +1,50 @@
+,demographic,pearson's r,p-value
+0,country_longest_African-Islamic,0.26,0.16090276293587608
+1,country_longest_Baltic,0.10,1.0
+2,country_longest_Catholic-Europe,0.11,1.0
+3,country_longest_Confucian,0.24,1.0
+4,country_longest_English-Speaking,0.36*,1.2459549200589764e-08
+5,country_longest_Latin-America,0.18,1.0
+6,country_longest_Orthodox-Europe,0.20,1.0
+7,country_longest_Protestant-Europe,0.37*,7.39491326934536e-05
+8,country_longest_West-South-Asia,0.23,1.0
+9,education_college,0.34*,5.304064787022954e-08
+10,education_graduate school,0.31*,1.5996804240445193e-05
+11,education_high school,0.34*,3.17044401177213e-07
+12,education_phd,0.27,0.003802720907776638
+13,education_pre-high school,0.19,1.0
+14,education_professional school,0.05,1.0
+15,ethnicity_asian,0.38*,8.1687485763961e-09
+16,ethnicity_black,0.27,0.00852660909001382
+17,ethnicity_latino/latina,0.30,0.0015665429070816782
+18,ethnicity_native american,0.27,1.0
+19,ethnicity_pacific islander,0.55,0.00472101325564757
+20,ethnicity_white,0.33*,1.5394533501894034e-07
+21,gender_man,0.35*,4.37346760874663e-08
+22,gender_non-binary,0.19,0.27765215976085783
+23,gender_woman,0.37*,2.987519923981173e-09
+24,native_language_english,0.35*,3.9407311512542535e-08
+25,native_language_not english,0.40*,1.689371829724941e-08
+26,age_10-20,0.37*,2.9698691955380446e-09
+27,age_20-30,0.35*,1.740940830756988e-08
+28,age_30-40,0.28*,0.0008884204122227936
+29,age_40-50,0.29,0.003677816897612779
+30,age_50-60,0.35*,0.000294907087511851
+31,age_60-70,0.39,1.0
+32,age_70-80,0.36,1.0
+33,age_> 80,0.01,1.0
+34,country_residence_African-Islamic,0.14,1.0
+35,country_residence_Baltic,0.20,1.0
+36,country_residence_Catholic-Europe,0.15,1.0
+37,country_residence_Confucian,0.35,0.10631477176182043
+38,country_residence_English-Speaking,0.36*,4.733329282285711e-09
+39,country_residence_Latin-America,0.12,1.0
+40,country_residence_Orthodox-Europe,0.29,1.0
+41,country_residence_Protestant-Europe,0.32,0.0013188920274257844
+42,country_residence_West-South-Asia,0.18,1.0
+43,religion_buddhist,0.18,1.0
+44,religion_christian,0.37*,9.009919426485772e-09
+45,religion_hindu,0.29,0.16615138838269278
+46,religion_jew,0.31,0.03314260345096104
+47,religion_muslim,0.22,1.0
+48,religion_spiritual,-0.12,1.0

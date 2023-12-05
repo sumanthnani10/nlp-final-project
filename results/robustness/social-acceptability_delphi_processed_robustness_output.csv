@@ -1,0 +1,50 @@
+,demographic,pearson's r,p-value
+0,country_longest_African-Islamic,0.42,0.010316766793891216
+1,country_longest_Baltic,0.71*,2.491788922170959e-06
+2,country_longest_Catholic-Europe,0.60*,2.4077596115832316e-09
+3,country_longest_Confucian,0.58*,2.3695296741757754e-09
+4,country_longest_English-Speaking,0.61*,3.2686307973891827e-29
+5,country_longest_Latin-America,0.50,0.001552843217209005
+6,country_longest_Orthodox-Europe,0.60*,2.053768657181437e-08
+7,country_longest_Protestant-Europe,0.54*,4.3347162445472814e-11
+8,country_longest_West-South-Asia,0.62*,3.807952678726324e-11
+9,education_college,0.64*,1.2220779832798783e-33
+10,education_graduate school,0.58*,1.7325136874838432e-25
+11,education_high school,0.55*,1.9053544910530554e-22
+12,education_phd,0.53*,2.5368485404265307e-18
+13,education_pre-high school,0.46*,8.526436695671876e-11
+14,education_professional school,0.46*,9.588301856956916e-10
+15,ethnicity_asian,0.56*,2.5786831789145244e-23
+16,ethnicity_black,0.50*,8.080408351769549e-15
+17,ethnicity_latino/latina,0.55*,2.3473376248337847e-18
+18,ethnicity_native american,0.52*,3.1113518268572025e-05
+19,ethnicity_pacific islander,0.63,0.0013822378217105402
+20,ethnicity_white,0.60*,1.968798091180974e-28
+21,gender_man,0.63*,5.8589349814661e-32
+22,gender_non-binary,0.52*,8.65679101472788e-19
+23,gender_woman,0.61*,1.836674776712636e-29
+24,native_language_english,0.63*,1.2026003887381338e-31
+25,native_language_not english,0.53*,2.3771242784955163e-18
+26,age_10-20,0.60*,1.2609251098807815e-27
+27,age_20-30,0.66*,8.98006656817118e-37
+28,age_30-40,0.52*,6.024109023482771e-19
+29,age_40-50,0.54*,8.522668277669585e-19
+30,age_50-60,0.50*,8.775773323592562e-12
+31,age_60-70,0.48*,6.288762728927848e-11
+32,age_70-80,0.52*,0.00041991353866038903
+33,age_> 80,0.48,0.9082920493897798
+34,country_residence_African-Islamic,0.42,0.01690569883833502
+35,country_residence_Baltic,0.59*,0.00014740628940478406
+36,country_residence_Catholic-Europe,0.44*,8.616607931648897e-06
+37,country_residence_Confucian,0.60*,4.209475062281087e-12
+38,country_residence_English-Speaking,0.65*,2.0692175419715194e-34
+39,country_residence_Latin-America,0.57*,1.2330786503986391e-05
+40,country_residence_Orthodox-Europe,0.60*,7.861931033227018e-07
+41,country_residence_Protestant-Europe,0.56*,9.738409234413564e-15
+42,country_residence_West-South-Asia,0.57*,8.914728889704826e-07
+43,religion_buddhist,0.58*,3.164738787469205e-10
+44,religion_christian,0.53*,4.330003818126839e-21
+45,religion_hindu,0.60*,2.290252902366959e-11
+46,religion_jew,0.60*,1.8538285380460558e-13
+47,religion_muslim,0.59*,1.464584989897266e-14
+48,religion_spiritual,0.60*,3.4864010287487114e-07

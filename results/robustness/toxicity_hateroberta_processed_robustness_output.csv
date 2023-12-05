@@ -1,0 +1,50 @@
+,demographic,pearson's r,p-value
+0,country_longest_African-Islamic,-0.07,1.0
+1,country_longest_Baltic,-0.15,1.0
+2,country_longest_Catholic-Europe,-0.23,0.7073218210279012
+3,country_longest_Confucian,-0.37,0.015600245317205105
+4,country_longest_English-Speaking,-0.24,0.0011470688350677918
+5,country_longest_Latin-America,-0.27,1.0
+6,country_longest_Orthodox-Europe,-0.19,1.0
+7,country_longest_Protestant-Europe,-0.37*,2.3982003016434767e-05
+8,country_longest_West-South-Asia,-0.19,1.0
+9,education_college,-0.26*,0.00017769022271177512
+10,education_graduate school,-0.2,0.03451405647221176
+11,education_high school,-0.2,0.034898002417138856
+12,education_phd,-0.21,0.10823775556719716
+13,education_pre-high school,-0.17,1.0
+14,education_professional school,-0.14,1.0
+15,ethnicity_asian,-0.2,0.05472066524095776
+16,ethnicity_black,-0.2,0.22105121403574585
+17,ethnicity_latino/latina,-0.21,0.10669204030894924
+18,ethnicity_native american,-0.11,1.0
+19,ethnicity_pacific islander,-0.13,1.0
+20,ethnicity_white,-0.29*,1.2844688080905704e-05
+21,gender_man,-0.19,0.039508303480891835
+22,gender_non-binary,-0.19,0.17138550912804684
+23,gender_woman,-0.25*,0.0006261296233497992
+24,native_language_english,-0.24,0.0013071698971967706
+25,native_language_not english,-0.3*,0.00010953978704349323
+26,age_10-20,-0.25*,0.000494476384143636
+27,age_20-30,-0.28*,4.1584072077045e-05
+28,age_30-40,-0.23,0.009758652006034775
+29,age_40-50,-0.23,0.055535707505480106
+30,age_50-60,-0.19,0.4328465562287586
+31,age_60-70,-0.11,1.0
+32,age_70-80,0.15,1.0
+33,age_> 80,-0.03,1.0
+34,country_residence_African-Islamic,-0.07,1.0
+35,country_residence_Baltic,-0.22,1.0
+36,country_residence_Catholic-Europe,-0.21,1.0
+37,country_residence_Confucian,-0.29,0.3511577808702819
+38,country_residence_English-Speaking,-0.25*,0.0007527407550311013
+39,country_residence_Latin-America,-0.21,1.0
+40,country_residence_Orthodox-Europe,-0.25,1.0
+41,country_residence_Protestant-Europe,-0.31,0.0013153730467108636
+42,country_residence_West-South-Asia,0.04,1.0
+43,religion_buddhist,-0.04,1.0
+44,religion_christian,-0.29*,3.0374608763776003e-05
+45,religion_hindu,-0.16,1.0
+46,religion_jew,-0.19,1.0
+47,religion_muslim,-0.16,1.0
+48,religion_spiritual,-0.06,1.0

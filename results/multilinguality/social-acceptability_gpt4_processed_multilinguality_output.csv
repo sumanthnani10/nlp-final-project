@@ -1,0 +1,50 @@
+,demographic,pearson's r,p-value
+0,country_longest_African-Islamic,0.42*,6.583392843058727e-22
+1,country_longest_Baltic,0.69*,1.2134589327094828e-42
+2,country_longest_Catholic-Europe,0.71*,2.0836513928247166e-104
+3,country_longest_Confucian,0.68*,1.34339941874908e-103
+4,country_longest_English-Speaking,0.72*,2.2757e-320
+5,country_longest_Latin-America,0.51*,2.6090934000307143e-28
+6,country_longest_Orthodox-Europe,0.67*,3.952999548750937e-83
+7,country_longest_Protestant-Europe,0.65*,1.0751198783924083e-125
+8,country_longest_West-South-Asia,0.62*,6.494681236772205e-81
+9,education_college,0.70*,1.0976455083739569e-300
+10,education_graduate school,0.67*,2.5779278983203124e-264
+11,education_high school,0.69*,4.113091741141205e-286
+12,education_phd,0.64*,6.364719748145259e-210
+13,education_pre-high school,0.59*,3.119480537729813e-139
+14,education_professional school,0.50*,2.0364740300875454e-83
+15,ethnicity_asian,0.63*,4.742292924307456e-218
+16,ethnicity_black,0.57*,2.709771919555613e-143
+17,ethnicity_latino/latina,0.59*,3.1283957525739016e-157
+18,ethnicity_native american,0.64*,1.0057224595690928e-66
+19,ethnicity_pacific islander,0.62*,5.011068324194368e-27
+20,ethnicity_white,0.72*,1.4931083e-316
+21,gender_man,0.72*,2.8368844e-317
+22,gender_non-binary,0.60*,2.178723904875305e-189
+23,gender_woman,0.73*,0.0
+24,native_language_english,0.71*,7.781665997291888e-307
+25,native_language_not english,0.63*,3.558242127593179e-198
+26,age_10-20,0.69*,6.562377777020498e-283
+27,age_20-30,0.70*,2.627026124979165e-292
+28,age_30-40,0.62*,1.5574930503684254e-209
+29,age_40-50,0.63*,7.514336051591409e-193
+30,age_50-60,0.59*,4.83003623081737e-121
+31,age_60-70,0.53*,3.2194986696251593e-96
+32,age_70-80,0.56*,1.5621824177439193e-38
+33,age_> 80,0.60*,2.0549153754715232e-16
+34,country_residence_African-Islamic,0.41*,2.990244212262505e-18
+35,country_residence_Baltic,0.48*,2.324289868815499e-21
+36,country_residence_Catholic-Europe,0.66*,6.052885578416221e-110
+37,country_residence_Confucian,0.66*,5.759884230119003e-109
+38,country_residence_English-Speaking,0.73*,0.0
+39,country_residence_Latin-America,0.60*,3.611613620144971e-48
+40,country_residence_Orthodox-Europe,0.60*,2.8874991638610967e-51
+41,country_residence_Protestant-Europe,0.62*,1.5579171848900565e-134
+42,country_residence_West-South-Asia,0.53*,1.2639911870628253e-41
+43,religion_buddhist,0.55*,2.7815362028494654e-63
+44,religion_christian,0.73*,0.0
+45,religion_hindu,0.59*,1.3731705647891e-78
+46,religion_jew,0.60*,7.2334326170302956e-93
+47,religion_muslim,0.68*,1.4580642836501483e-145
+48,religion_spiritual,0.72*,6.672563576662455e-88

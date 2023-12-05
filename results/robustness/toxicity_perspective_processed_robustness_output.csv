@@ -1,0 +1,50 @@
+,demographic,pearson's r,p-value
+0,country_longest_African-Islamic,0.10,1.0
+1,country_longest_Baltic,0.03,1.0
+2,country_longest_Catholic-Europe,0.12,1.0
+3,country_longest_Confucian,0.03,1.0
+4,country_longest_English-Speaking,0.10,1.0
+5,country_longest_Latin-America,-0.12,1.0
+6,country_longest_Orthodox-Europe,-0.03,1.0
+7,country_longest_Protestant-Europe,-0.04,1.0
+8,country_longest_West-South-Asia,0.13,1.0
+9,education_college,0.06,1.0
+10,education_graduate school,0.06,1.0
+11,education_high school,0.12,1.0
+12,education_phd,0.07,1.0
+13,education_pre-high school,0.04,1.0
+14,education_professional school,-0.17,1.0
+15,ethnicity_asian,0.14,0.9950389245461737
+16,ethnicity_black,0.06,1.0
+17,ethnicity_latino/latina,0.06,1.0
+18,ethnicity_native american,0.11,1.0
+19,ethnicity_pacific islander,0.25,1.0
+20,ethnicity_white,0.05,1.0
+21,gender_man,0.13,1.0
+22,gender_non-binary,0.04,1.0
+23,gender_woman,0.08,1.0
+24,native_language_english,0.10,1.0
+25,native_language_not english,0.08,1.0
+26,age_10-20,0.10,1.0
+27,age_20-30,0.04,1.0
+28,age_30-40,0.04,1.0
+29,age_40-50,0.04,1.0
+30,age_50-60,0.15,1.0
+31,age_60-70,0.20,1.0
+32,age_70-80,0.28,1.0
+33,age_> 80,0.06,1.0
+34,country_residence_African-Islamic,-0.03,1.0
+35,country_residence_Baltic,0.09,1.0
+36,country_residence_Catholic-Europe,0.08,1.0
+37,country_residence_Confucian,0.11,1.0
+38,country_residence_English-Speaking,0.08,1.0
+39,country_residence_Latin-America,-0.16,1.0
+40,country_residence_Orthodox-Europe,-0.11,1.0
+41,country_residence_Protestant-Europe,-0.03,1.0
+42,country_residence_West-South-Asia,0.33,1.0
+43,religion_buddhist,0.08,1.0
+44,religion_christian,0.04,1.0
+45,religion_hindu,0.06,1.0
+46,religion_jew,0.14,1.0
+47,religion_muslim,0.08,1.0
+48,religion_spiritual,-0.2,1.0
