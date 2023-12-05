@@ -88,4 +88,4 @@ To replicate our analyses, please follow these steps:
 
 - Calculate GPT-4 values on the Social Acceptability dataset for both translated and augmented versions.
 
-- Run [final-project.ipynb](final-project.ipynb) to acheive that
+- Run [final-project.ipynb](final_project.ipynb) to acheive that
