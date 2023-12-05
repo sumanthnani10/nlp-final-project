@@ -3,6 +3,11 @@
 ## Project
 This is the project repository for the NLPositionality project - Final Project for CS 678.
 
+## Team
+- Sumanth Bejugam
+- Soumya Thalapaneni
+- Sai Hruthik Bojja
+
 ## Paper - Referred
 __NLPositionality: Characterizing Design Biases of Datasets and Models__
 Sebastin Santy, Jenny T. Liang, Ronan Le Bras, Katharina Reinecke, Maarten Sap
