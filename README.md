@@ -67,8 +67,6 @@ For each task, we have two versions of datasets:
 | original | Action column in english from original dataset. |
 
 ## Code
-This code will assist in downloading the most up-to-date data and replicating our analyses featured in our [paper](https://arxiv.org/abs/2306.01943) and [website](http://nlpositionality.cs.washington.edu/).
-
 To replicate our analyses, please follow these steps:
 1. **Clone this repository**.
 2. **Run `final-project.ipynb`**.
